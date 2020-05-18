@@ -1,0 +1,21 @@
+{
+    "name": "scratchreact",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "parcel src/index.html"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@reach/router": "^1.3.3",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1"
+    },
+    "devDependencies": {
+        "parcel-bundler": "^1.12.4",
+        "prettier": "^2.0.5"
+    }
+}
